@@ -28,6 +28,7 @@ We ask that all contributions be relevant to sustainable game development and pr
 - [Greening Games Education Report](http://greeningames.eu/greening-games-education-report/)
 - [IGDA Climate SIG](https://www.igdaclimatesig.org)
 - [Play Create Green](https://playcreategreen.org/)
+- [KDE Eco](https://eco.kde.org)
 
 ## License
 This project is licensed under the [MIT License](https://codeberg.org/kreateer/sustainable-games-toolkit/src/branch/main/LICENSE).
