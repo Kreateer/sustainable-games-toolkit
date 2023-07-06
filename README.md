@@ -29,6 +29,7 @@ We ask that all contributions be relevant to sustainable game development and pr
 - ['Why Green Coding is a Powerful Catalyst for Sustainability Initiatives'](https://www.ibm.com/cloud/blog/green-coding)
 - ['Green Coding: What Is It And Why Should You Care'](https://geekflare.com/green-coding/)
 - [Green Software Foundation Recommendations for Green Software Development](https://greensoftware.foundation/articles/10-recommendations-for-green-software-development)
+- [SUSO Academy Green Coding Examples](https://www.suso.academy/en/2023/03/13/green-coding-the-5-most-important-basics-for-sustainable-software-development-with-code-examples/)
 
 ### Tools and Software
 - [Marmelab's Argos Model Description (references other tools too)](https://marmelab.com/blog/2020/11/26/argos-sustainable-development.html)
