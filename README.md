@@ -31,7 +31,8 @@ We ask that all contributions be relevant to sustainable game development and pr
 - [Green Software Foundation Recommendations for Green Software Development](https://greensoftware.foundation/articles/10-recommendations-for-green-software-development)
 
 ### Tools and Software
-- 
+- [Marmelab's Argos Model Description (references other tools too)](https://marmelab.com/blog/2020/11/26/argos-sustainable-development.html)
+- [Marmelab GreenFrame - Web Application Carbon Footprint Measuring Tool](https://greenframe.io)
 
 ### Organizations and Initiatives
 - [Playing For The Planet Alliance](https://www.playing4theplanet.org/)
