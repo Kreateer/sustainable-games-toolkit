@@ -19,6 +19,7 @@ We ask that all contributions be relevant to sustainable game development and pr
 - [Reducing Fortnite's Power Consumption (White paper)](https://www.unrealengine.com/en-US/blog/white-paper-reducing-fortnite-s-power-consumption)
 - [Microsoft Sustainability Docs](https://learn.microsoft.com/en-us/gaming/sustainability/sustainability-overview)
 - [Play Create Green Climate Handbook](https://playcreategreen.org/reduce/)
+- [Greening Games Education Report](http://greeningames.eu/greening-games-education-report/)
 - [Space Ape Games Steps to Becoming Carbon Neutral](https://spaceapegames.com/green)
 - [Stripe's Carbon Neutral Journey](https://increment.com/energy-environment/stripes-carbon-neutral-journey/)
 - [UK Interactive Entertainment (UKIE) Green Games Guide](https://ukie.org.uk/greengamesguide)
@@ -37,7 +38,7 @@ We ask that all contributions be relevant to sustainable game development and pr
 
 ### Organizations and Initiatives
 - [Playing For The Planet Alliance](https://www.playing4theplanet.org/)
-- [Greening Games Education Report](http://greeningames.eu/greening-games-education-report/)
+- [Greening Games](http://greeningames.eu)
 - [IGDA Climate SIG](https://www.igdaclimatesig.org)
 - [Play Create Green](https://playcreategreen.org/)
 - [KDE Eco](https://eco.kde.org)
