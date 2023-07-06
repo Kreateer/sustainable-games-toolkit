@@ -19,6 +19,16 @@ We ask that all contributions be relevant to sustainable game development and pr
 - [Reducing Fortnite's Power Consumption (White paper)](https://www.unrealengine.com/en-US/blog/white-paper-reducing-fortnite-s-power-consumption)
 - [Microsoft Sustainability Docs](https://learn.microsoft.com/en-us/gaming/sustainability/sustainability-overview)
 - [Play Create Green Climate Handbook](https://playcreategreen.org/reduce/)
+- [Space Ape Games Steps to Becoming Carbon Neutral](https://spaceapegames.com/green)
+- [Stripe's Carbon Neutral Journey](https://increment.com/energy-environment/stripes-carbon-neutral-journey/)
+- [UK Interactive Entertainment (UKIE) Green Games Guide](https://ukie.org.uk/greengamesguide)
+- [Greening The Beast Project - Sustainable PC Rigs](https://sites.google.com/site/greeningthebeast/market-survey?authuser=0)
+- ['The Many Ways Video Game Development Impacts the Climate Crisis](https://www.theverge.com/2020/5/5/21243285/video-games-climate-crisis-impact-xbox-playstation-developers)
+- ['The Environmental Impact of a Playstation 4'](https://www.theverge.com/2019/12/5/20985330/ps4-sony-playstation-environmental-impact-carbon-footprint-manufacturing-25-anniversary)
+- [Objectbox Green Coding Practices](https://objectbox.io/green-coding/)
+- ['Why Green Coding is a Powerful Catalyst for Sustainability Initiatives'](https://www.ibm.com/cloud/blog/green-coding)
+- ['Green Coding: What Is It And Why Should You Care'](https://geekflare.com/green-coding/)
+- [Green Software Foundation Recommendations for Green Software Development](https://greensoftware.foundation/articles/10-recommendations-for-green-software-development)
 
 ### Tools and Software
 - 
