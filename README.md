@@ -17,6 +17,7 @@ We ask that all contributions be relevant to sustainable game development and pr
 ### Articles and Blogs
 - [The Environmental Game Design Playbook (IGDA Climate SIG)](https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/04/06100719/EnvironmentalGameDesignPlaybook_Alpha_Release_Adj.pdf)
 - [Reducing Fortnite's Power Consumption (White paper)](https://www.unrealengine.com/en-US/blog/white-paper-reducing-fortnite-s-power-consumption)
+- [What Does Design For Energy Efficient Games Looks Like (practical tips)](https://gtg.benabraham.net/what-does-design-for-energy-efficient-games-look-like/?ref=greening-the-game-industry-newsletter)
 - [Microsoft Sustainability Docs](https://learn.microsoft.com/en-us/gaming/sustainability/sustainability-overview)
 - [Play Create Green Climate Handbook](https://playcreategreen.org/reduce/)
 - [Greening Games Education Report](http://greeningames.eu/greening-games-education-report/)
